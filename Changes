@@ -1,0 +1,9 @@
+Revision history for Lingua-RU-Preposition
+
+0.00    04 Mar 2010
+        As part of L<Lingua::RU::Inflect> 0.02
+        Added sub C<choose_preposition_by_next_word> and its aliases.
+        Added tests.
+
+0.01    18 Feb 2011
+        Lingua::RU::Preposition forked from L<Lingua::RU::Inflect>.
